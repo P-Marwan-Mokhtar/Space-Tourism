@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@layer {
+  .container {
+    @apply mx-auto px-[15px];
+  }
+}
+* {
+  scroll-behavior: smooth;
+}
+
+button{
+  cursor: pointer;
+}
